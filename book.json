@@ -1,0 +1,11 @@
+{
+  "tool": "claude-code",
+  "name": "Claude Code",
+  "icon": "🤖",
+  "blurb": "Anthropic 官方命令行 AI 编程工具，最强项目级编程，国内可用、不用登录",
+  "keywords": ["Claude Code 中文教程", "Claude Code 安装", "Claude Code 国内 配置", "claude code 装不上"],
+  "repo": "claude-code-handbook-zh",
+  "from": "claude-code",
+  "blue": { "file": "蓝皮书-入门.md", "title": "Claude Code 蓝皮书 · 安装配置入门" },
+  "red":  { "file": "红皮书-进阶.md", "title": "Claude Code 红皮书 · 进阶实战与变现" }
+}
